@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    font-family: $font;
+}
+
+.jumbotron{
+    width: calc(100% - 100px);
+    position: relative;
+    padding:10px 50px;
+    margin-top:70px ;
+    background: #eee;
+    text-align:center;
+    margin-bottom: 0 !important;
+}
